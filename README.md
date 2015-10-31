@@ -9,7 +9,7 @@ This theme is based on Seti Syntax for atom from jeseeweed: [https://github.com/
 
 2. Restart Visual Studio Code.
 
-3. Enjoy 😁 
+3. Go to: `preferences` -> `color theme`  and select `Seti`    
 
 ## Notes:
 

@@ -1,14 +1,14 @@
 {
-	"name": "theme-seti_mod",
+	"name": "theme-seti",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
 	},
-	"publisher": "Adán Galván (Bialikover)",
+	"publisher": "Adán G. Galván González (Bialikover)",
 	"contributes": {
 		"themes": [
 			{
-				"label": "Seti_Mod",
+				"label": "Seti",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Seti.tmTheme"
 			}
